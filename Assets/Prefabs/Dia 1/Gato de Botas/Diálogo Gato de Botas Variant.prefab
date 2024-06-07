@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4242538949264269188
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3721664800834388864, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3721664800834388864, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3721664800834388864, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3721664800834388864, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3721664800834388864, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3721664800834388864, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3721664800834388864, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3721664800834388864, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3721664800834388864, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3721664800834388864, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3721664800834388864, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3721664800834388864, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3721664800834388864, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3721664800834388864, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3721664800834388864, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3721664800834388864, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3721664800834388864, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3721664800834388864, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3721664800834388864, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3721664800834388864, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nome.Array.size
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: falas.Array.size
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nome.Array.data[0]
+      value: Jogador
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nome.Array.data[1]
+      value: Jogador
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nome.Array.data[2]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nome.Array.data[3]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nome.Array.data[4]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nome.Array.data[5]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nome.Array.data[6]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nome.Array.data[7]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nome.Array.data[8]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nome.Array.data[9]
+      value: Jogador
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: falas.Array.data[0]
+      value: "Ah 16h, hor\xE1rio de pico\u2026 melhor abrir logo."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: falas.Array.data[1]
+      value: "Bem vindo primeiro cliente do di- Ah \xE9 voc\xEA , como vai?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: falas.Array.data[2]
+      value: "Ol\xE1, caro ouvinte, escute o seguinte:"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: falas.Array.data[3]
+      value: "Trouxe os teus mantimentos necess\xE1rios, "
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: falas.Array.data[4]
+      value: "Junto de um dos meus poemas di\xE1rios:"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: falas.Array.data[5]
+      value: Quisera eu nessa vida ser uma marmota,
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: falas.Array.data[6]
+      value: "(Mas faria pe\xE7a, piada, cambalhota!)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: falas.Array.data[7]
+      value: "Pra ter minha alegria \u2013 n\xE3o fa\xE7a chacota:"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: falas.Array.data[8]
+      value: Mais um par de botas; menos que isso, derrota!
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: falas.Array.data[9]
+      value: "Ah... Voc\xEA t\xE1 melhorando ein."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nome.Array.data[10]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nome.Array.data[11]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nome.Array.data[12]
+      value: Jogador
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nome.Array.data[13]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nome.Array.data[14]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nome.Array.data[15]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: falas.Array.data[10]
+      value: Vosso elogio me agita,
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: falas.Array.data[11]
+      value: mas a minha sede grita!
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: falas.Array.data[12]
+      value: "\xC9, voc\xEA incorporou bem isso a\xED, vai ser o de sempre?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: falas.Array.data[13]
+      value: 'Mas como conheces o cliente! '
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: falas.Array.data[14]
+      value: "Tu j\xE1 sabes o que tenho em mente:"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: falas.Array.data[15]
+      value: 'Leite em temperatura ambiente! '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7085057270189671842, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: m_Name
+      value: "Di\xE1logo Gato de Botas Variant"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a94686d32577e454db12f0c1491650be, type: 3}
