@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3483068f2a093c42a6c3f795212627a, type: 3}
+  m_Name: Combination_tea
+  m_EditorClassIdentifier: 
+  ingredients:
+  - {fileID: 11400000, guid: 669da0a2d0327154281b9118d2a59155, type: 2}
+  - {fileID: 11400000, guid: d8e727a3cbe634a45932bc94cf073573, type: 2}
+  result: {fileID: 11400000, guid: be3a30c7b3c204f4e81b9f88f45772c1, type: 2}
