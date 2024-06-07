@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Earl Gray.sln"
+    "dotnet.defaultSolution": "Earl-Gray.sln"
 }

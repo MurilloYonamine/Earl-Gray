@@ -20,7 +20,7 @@ public class DialogueController : MonoBehaviour
         componenteNome.text = string.Empty;
         ComecarDialogo();
     }
-
+  
     void Update()
     {
         if (Input.GetMouseButtonDown(0))
@@ -69,7 +69,7 @@ public class DialogueController : MonoBehaviour
         }
         else
         {
-            Destroy(gameObject);
+            gameObject.SetActive(false);
         }
     }
 
