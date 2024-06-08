@@ -9,11 +9,17 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: db0e655853a0b444a86daf7a2f230e9f
+  - enabled: 1
     path: Assets/Scenes/Dia 1.unity
     guid: 23a5138a01c5f5747947850978f11e0b
   - enabled: 1
     path: Assets/Scenes/Dia 1.1.unity
     guid: 9e2ada2ad8811124996593fdb261c6f1
+  - enabled: 1
+    path: Assets/Scenes/Narrador Inicio.unity
+    guid: d2465a81401a06143820084b412f17b8
   - enabled: 1
     path: Assets/Scenes/Carta1.unity
     guid: dc6952e537a351240919f15292b495f6
@@ -81,9 +87,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Credit.unity
     guid: f1582b11c6e6603468da1b8ea29661a5
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
-    guid: db0e655853a0b444a86daf7a2f230e9f
-  - enabled: 1
     path: Assets/Scenes/Gameplay3.unity
     guid: 88afab8df8c311545aa65a272fa9f3b7
   - enabled: 1
@@ -98,4 +101,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Carta2.unity
     guid: 4651c780ad2426e4e9775f9e56d22023
+  - enabled: 1
+    path: Assets/Scenes/Narrador Final.unity
+    guid: 9d5cd7da5469a734caea58662c638e89
   m_configObjects: {}

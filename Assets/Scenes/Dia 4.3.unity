@@ -199,7 +199,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 77c3e5665ee36a24f87486d2efc47765, type: 3}
   - {fileID: 21300000, guid: 023c3b218e038f445bdbe52e6511e5e1, type: 3}
   audioSource: {fileID: 138038806}
-  velocidadeTexto: 0
+  velocidadeTexto: 0.1
 --- !u!82 &138038806 stripped
 AudioSource:
   m_CorrespondingSourceObject: {fileID: 9199156117511716518, guid: a94686d32577e454db12f0c1491650be, type: 3}
