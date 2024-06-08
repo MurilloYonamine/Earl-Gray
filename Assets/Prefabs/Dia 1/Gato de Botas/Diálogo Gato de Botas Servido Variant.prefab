@@ -97,6 +97,14 @@ PrefabInstance:
       value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nomes.Array.size
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.size
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
       propertyPath: nome.Array.data[0]
       value: Jogador
       objectReference: {fileID: 0}
@@ -221,6 +229,38 @@ PrefabInstance:
       value: Jogador
       objectReference: {fileID: 0}
     - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nomes.Array.data[0]
+      value: Jogador
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nomes.Array.data[1]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nomes.Array.data[2]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nomes.Array.data[4]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nomes.Array.data[5]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nomes.Array.data[7]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nomes.Array.data[8]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nomes.Array.data[9]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
       propertyPath: falas.Array.data[10]
       value: 'Festa? Que festa? '
       objectReference: {fileID: 0}
@@ -267,8 +307,136 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
       propertyPath: falas.Array.data[21]
-      value: Muito obrigada, bom trabalho!
+      value: Muito obrigado, bom trabalho!
       objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nomes.Array.data[10]
+      value: Jogador
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nomes.Array.data[11]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nomes.Array.data[12]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nomes.Array.data[13]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nomes.Array.data[14]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nomes.Array.data[15]
+      value: Jogador
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nomes.Array.data[16]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nomes.Array.data[17]
+      value: Jogador
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nomes.Array.data[18]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nomes.Array.data[19]
+      value: Gato de Botas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: nomes.Array.data[21]
+      value: Jogador
+      objectReference: {fileID: 0}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[0]
+      value: 
+      objectReference: {fileID: 21300000, guid: b59f3f94894af974fb5f0b379cb847c1, type: 3}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[1]
+      value: 
+      objectReference: {fileID: 21300000, guid: 1c9455aef1bdcad40ab13f35f3c4af85, type: 3}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[2]
+      value: 
+      objectReference: {fileID: 21300000, guid: 959d207dc44a1554288cd7834d4dc9ec, type: 3}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[3]
+      value: 
+      objectReference: {fileID: 21300000, guid: 0b629b27d112d2c488527c48d11cd387, type: 3}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[4]
+      value: 
+      objectReference: {fileID: 21300000, guid: 0b629b27d112d2c488527c48d11cd387, type: 3}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[5]
+      value: 
+      objectReference: {fileID: 21300000, guid: 0b629b27d112d2c488527c48d11cd387, type: 3}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[6]
+      value: 
+      objectReference: {fileID: 21300000, guid: 0b629b27d112d2c488527c48d11cd387, type: 3}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[7]
+      value: 
+      objectReference: {fileID: 21300000, guid: 1c9455aef1bdcad40ab13f35f3c4af85, type: 3}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[8]
+      value: 
+      objectReference: {fileID: 21300000, guid: 1c9455aef1bdcad40ab13f35f3c4af85, type: 3}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[9]
+      value: 
+      objectReference: {fileID: 21300000, guid: 959d207dc44a1554288cd7834d4dc9ec, type: 3}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[10]
+      value: 
+      objectReference: {fileID: 21300000, guid: 5dcedb56dcbdec44ea0c1af5379d9a26, type: 3}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[11]
+      value: 
+      objectReference: {fileID: 21300000, guid: 1c9455aef1bdcad40ab13f35f3c4af85, type: 3}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[12]
+      value: 
+      objectReference: {fileID: 21300000, guid: 959d207dc44a1554288cd7834d4dc9ec, type: 3}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[13]
+      value: 
+      objectReference: {fileID: 21300000, guid: 959d207dc44a1554288cd7834d4dc9ec, type: 3}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[14]
+      value: 
+      objectReference: {fileID: 21300000, guid: 959d207dc44a1554288cd7834d4dc9ec, type: 3}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[15]
+      value: 
+      objectReference: {fileID: 21300000, guid: 5dcedb56dcbdec44ea0c1af5379d9a26, type: 3}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[16]
+      value: 
+      objectReference: {fileID: 21300000, guid: 1c9455aef1bdcad40ab13f35f3c4af85, type: 3}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[17]
+      value: 
+      objectReference: {fileID: 21300000, guid: b59f3f94894af974fb5f0b379cb847c1, type: 3}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[18]
+      value: 
+      objectReference: {fileID: 21300000, guid: 1c9455aef1bdcad40ab13f35f3c4af85, type: 3}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[19]
+      value: 
+      objectReference: {fileID: 21300000, guid: 1c9455aef1bdcad40ab13f35f3c4af85, type: 3}
+    - target: {fileID: 6265101874256540083, guid: a94686d32577e454db12f0c1491650be, type: 3}
+      propertyPath: imagens.Array.data[20]
+      value: 
+      objectReference: {fileID: 21300000, guid: b084faf42d53d4548ae3e6cd77190ade, type: 3}
     - target: {fileID: 7085057270189671842, guid: a94686d32577e454db12f0c1491650be, type: 3}
       propertyPath: m_Name
       value: "Di\xE1logo Gato de Botas Servido Variant"

@@ -34,7 +34,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -85}
+  m_AnchoredPosition: {x: 0, y: -95}
   m_SizeDelta: {x: 900, y: 900}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &885383130229762865
@@ -405,7 +405,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   componenteTexto: {fileID: 4412717289322591787}
   componenteNome: {fileID: 805698262596402073}
-  componenteImagem: {fileID: 0}
+  componenteImagem: {fileID: 2597087454097730265}
   falas: []
   nomes: []
   imagens: []
