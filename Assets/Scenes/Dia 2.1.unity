@@ -214,6 +214,217 @@ PrefabInstance:
       propertyPath: m_Name
       value: "Di\xE1logo Mo\xE7a Variant"
       objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: falas.Array.size
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: nomes.Array.size
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: imagens.Array.size
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: falas.Array.data[0]
+      value: "Bom\u2026 3 caixas\u2026 3 CAIXAS? O que essa mo\xE7a vai fazer com
+        isso? Botar o reino para dormir?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: falas.Array.data[1]
+      value: "Bom \xE9 uma mans\xE3o e a fam\xEDlia dela deve ser grande."
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: falas.Array.data[2]
+      value: "Com essa festa amanh\xE3, as pessoas devem estar nervosas mesmo. Deixa
+        eu preparar isso."
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: falas.Array.data[3]
+      value: Prontinho!
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: falas.Array.data[4]
+      value: "C-com licen\xE7a, vim buscar uma entrega."
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: falas.Array.data[5]
+      value: "Ah claro, aqui est\xE1."
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: falas.Array.data[6]
+      value: Aqui o seu dinheiro.
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: falas.Array.data[7]
+      value: "Calma, mo\xE7a\u2026 isso \xE9\u2026 muito, n\xE3o vai querer algo?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: falas.Array.data[8]
+      value: Eu?
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: falas.Array.data[9]
+      value: "Voc\xEA."
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: nomes.Array.data[1]
+      value: Jogador
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: nomes.Array.data[2]
+      value: Jogador
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: nomes.Array.data[3]
+      value: Jogador
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: nomes.Array.data[4]
+      value: Jogador
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: nomes.Array.data[5]
+      value: "Mo\xE7a"
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: nomes.Array.data[6]
+      value: Jogador
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: nomes.Array.data[7]
+      value: "Mo\xE7a"
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: nomes.Array.data[8]
+      value: Jogador
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: nomes.Array.data[9]
+      value: "Mo\xE7a"
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: falas.Array.data[10]
+      value: "Bom\u2026 suponho que se n\xE3o demorar muito tudo bem\u2026 o q-que
+        voc\xEA tem?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: falas.Array.data[11]
+      value: "Ch\xE1\u2026 bom, ch\xE1 e leite."
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: falas.Array.data[12]
+      value: "Eu posso pedir um ch\xE1 ent\xE3o?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: falas.Array.data[13]
+      value: "Claro, qual voc\xEA vai querer?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: falas.Array.data[14]
+      value: ...
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: falas.Array.data[15]
+      value: ...
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: falas.Array.data[16]
+      value: ...
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: nomes.Array.data[10]
+      value: Jogador
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: nomes.Array.data[11]
+      value: "Mo\xE7a"
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: nomes.Array.data[12]
+      value: Jogador
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: nomes.Array.data[13]
+      value: "Mo\xE7a"
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: nomes.Array.data[14]
+      value: Jogador
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: nomes.Array.data[15]
+      value: "Mo\xE7a"
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: nomes.Array.data[16]
+      value: Jogador
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: imagens.Array.data[1]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: imagens.Array.data[2]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: imagens.Array.data[3]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: imagens.Array.data[4]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: imagens.Array.data[5]
+      value: 
+      objectReference: {fileID: 21300000, guid: 023c3b218e038f445bdbe52e6511e5e1, type: 3}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: imagens.Array.data[6]
+      value: 
+      objectReference: {fileID: 21300000, guid: 77c3e5665ee36a24f87486d2efc47765, type: 3}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: imagens.Array.data[7]
+      value: 
+      objectReference: {fileID: 21300000, guid: 023c3b218e038f445bdbe52e6511e5e1, type: 3}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: imagens.Array.data[8]
+      value: 
+      objectReference: {fileID: 21300000, guid: 77c3e5665ee36a24f87486d2efc47765, type: 3}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: imagens.Array.data[9]
+      value: 
+      objectReference: {fileID: 21300000, guid: 023c3b218e038f445bdbe52e6511e5e1, type: 3}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: imagens.Array.data[10]
+      value: 
+      objectReference: {fileID: 21300000, guid: 77c3e5665ee36a24f87486d2efc47765, type: 3}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: imagens.Array.data[11]
+      value: 
+      objectReference: {fileID: 21300000, guid: 023c3b218e038f445bdbe52e6511e5e1, type: 3}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: imagens.Array.data[12]
+      value: 
+      objectReference: {fileID: 21300000, guid: 77c3e5665ee36a24f87486d2efc47765, type: 3}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: imagens.Array.data[13]
+      value: 
+      objectReference: {fileID: 21300000, guid: 023c3b218e038f445bdbe52e6511e5e1, type: 3}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: imagens.Array.data[14]
+      value: 
+      objectReference: {fileID: 21300000, guid: 77c3e5665ee36a24f87486d2efc47765, type: 3}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: imagens.Array.data[15]
+      value: 
+      objectReference: {fileID: 21300000, guid: 77c3e5665ee36a24f87486d2efc47765, type: 3}
+    - target: {fileID: 9010531600359104902, guid: 582560bcf412fb84081f0d41c8d479be, type: 3}
+      propertyPath: imagens.Array.data[16]
+      value: 
+      objectReference: {fileID: 21300000, guid: 77c3e5665ee36a24f87486d2efc47765, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

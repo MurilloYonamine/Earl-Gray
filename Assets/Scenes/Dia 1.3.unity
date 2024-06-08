@@ -141,7 +141,7 @@ PrefabInstance:
     - target: {fileID: 7376299322868078522, guid: d1a3c76fa50eccc4fab41a6111b8cf59, type: 3}
       propertyPath: dialogos.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 2133385311}
     - target: {fileID: 8666297736106742932, guid: d1a3c76fa50eccc4fab41a6111b8cf59, type: 3}
       propertyPath: m_LocalPosition.x
       value: 960
@@ -672,6 +672,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da996c7f3f719fa4fbb0fa639105255d, type: 3}
+--- !u!1 &2133385311 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 64892706254184625, guid: da996c7f3f719fa4fbb0fa639105255d, type: 3}
+  m_PrefabInstance: {fileID: 2133385310}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

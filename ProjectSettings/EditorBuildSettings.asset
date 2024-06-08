@@ -95,4 +95,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Dia 1 Transicao.unity
     guid: e8cdc9b0d3ffdc04193e353faf113874
+  - enabled: 1
+    path: Assets/Scenes/Carta2.unity
+    guid: 4651c780ad2426e4e9775f9e56d22023
   m_configObjects: {}
