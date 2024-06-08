@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Dia 1.1.unity
     guid: 9e2ada2ad8811124996593fdb261c6f1
   - enabled: 1
+    path: Assets/Scenes/Carta1.unity
+    guid: dc6952e537a351240919f15292b495f6
+  - enabled: 1
     path: Assets/Scenes/Dia 1.2.unity
     guid: be6a057c0c653cb469f1a8e10eeb134c
   - enabled: 1
@@ -89,4 +92,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Gameplay5.unity
     guid: 35a5a934eabcf8247bee4ff9abe96f55
+  - enabled: 1
+    path: Assets/Scenes/Dia 1 Transicao.unity
+    guid: e8cdc9b0d3ffdc04193e353faf113874
   m_configObjects: {}

@@ -301,7 +301,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 416032058354581863, guid: 37d53043ff22df449b4cba7b76e68b1b, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6067235541930018629, guid: 37d53043ff22df449b4cba7b76e68b1b, type: 3}
       propertyPath: m_Pivot.x
@@ -490,7 +490,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 79719249979658328, guid: 12ff4bdb64f140b418de1efb9922313d, type: 3}
       propertyPath: nomeCenaGameplay
-      value: DIa 1.2
+      value: Carta1
       objectReference: {fileID: 0}
     - target: {fileID: 79719249979658328, guid: 12ff4bdb64f140b418de1efb9922313d, type: 3}
       propertyPath: gerenciadorDeDialogos
