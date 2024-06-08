@@ -18,6 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Dia 1.2.unity
     guid: be6a057c0c653cb469f1a8e10eeb134c
   - enabled: 1
+    path: Assets/Scenes/Dia 1.3.unity
+    guid: a6a755e99645d924e988163a72b91e54
+  - enabled: 1
     path: Assets/Scenes/Dia 2 Transicao.unity
     guid: eb391b00adc276c4991c41b50bf6f57a
   - enabled: 1
@@ -48,11 +51,35 @@ EditorBuildSettings:
     path: Assets/Scenes/Dia 3.2.unity
     guid: 1bfb33fe46d919d439c220530869c1ae
   - enabled: 1
+    path: Assets/Scenes/DIa 4 Transicao.unity
+    guid: 3ddb3fa0aa3198b4e98c18069cd449ba
+  - enabled: 1
+    path: Assets/Scenes/Dia 4.unity
+    guid: f28c0e3b4b1024f4d965f563f96a3479
+  - enabled: 1
+    path: Assets/Scenes/Dia 4.1.unity
+    guid: a523a7dcdf3863e4aa5b6da32478f578
+  - enabled: 1
+    path: Assets/Scenes/Dia 4.2.unity
+    guid: a31a33f6afb0dee4f985ce4f4cda44e9
+  - enabled: 1
+    path: Assets/Scenes/Dia 4.3.unity
+    guid: e4eef8c41d28f1d45a2468644878b5b4
+  - enabled: 1
+    path: Assets/Scenes/Dia 4.4.unity
+    guid: 7c5a5d3ca1f682c48abbecec21d052ac
+  - enabled: 1
     path: Assets/Scenes/Gameplay.unity
     guid: 2c86cdb685489c748ac08d0e8003d51a
   - enabled: 1
     path: Assets/Scenes/Gameplay2.unity
     guid: c5dc0758ca530f54eb2258ea07a85983
+  - enabled: 1
+    path: Assets/Scenes/Credit.unity
+    guid: f1582b11c6e6603468da1b8ea29661a5
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: db0e655853a0b444a86daf7a2f230e9f
   - enabled: 1
     path: Assets/Scenes/Gameplay3.unity
     guid: 88afab8df8c311545aa65a272fa9f3b7
