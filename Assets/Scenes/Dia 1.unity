@@ -715,7 +715,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 79719249979658328, guid: 12ff4bdb64f140b418de1efb9922313d, type: 3}
       propertyPath: nomeCenaGameplay
-      value: Dia 1.1
+      value: Gameplay
       objectReference: {fileID: 0}
     - target: {fileID: 79719249979658328, guid: 12ff4bdb64f140b418de1efb9922313d, type: 3}
       propertyPath: delayAntesDaGameplay

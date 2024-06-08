@@ -356,7 +356,7 @@ PrefabInstance:
     - target: {fileID: 7376299322868078522, guid: d1a3c76fa50eccc4fab41a6111b8cf59, type: 3}
       propertyPath: dialogos.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 327898533}
     - target: {fileID: 8666297736106742932, guid: d1a3c76fa50eccc4fab41a6111b8cf59, type: 3}
       propertyPath: m_LocalPosition.x
       value: 960
@@ -588,8 +588,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 504, y: -120}
-  m_SizeDelta: {x: 900, y: 900}
+  m_AnchoredPosition: {x: 504, y: 14}
+  m_SizeDelta: {x: 594, y: 635}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1305127376 stripped
 MonoBehaviour:
@@ -707,7 +707,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 79719249979658328, guid: 12ff4bdb64f140b418de1efb9922313d, type: 3}
       propertyPath: nomeCenaGameplay
-      value: Gameplay3
+      value: Dia 2.4
       objectReference: {fileID: 0}
     - target: {fileID: 79719249979658328, guid: 12ff4bdb64f140b418de1efb9922313d, type: 3}
       propertyPath: gerenciadorDeDialogos

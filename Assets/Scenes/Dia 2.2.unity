@@ -384,8 +384,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 510, y: -120}
-  m_SizeDelta: {x: 900, y: 900}
+  m_AnchoredPosition: {x: 510, y: 7}
+  m_SizeDelta: {x: 594, y: 635}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1388213533
 MonoBehaviour:
@@ -519,7 +519,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 79719249979658328, guid: 12ff4bdb64f140b418de1efb9922313d, type: 3}
       propertyPath: nomeCenaGameplay
-      value: Gameplay3
+      value: Dia 2.3
       objectReference: {fileID: 0}
     - target: {fileID: 79719249979658328, guid: 12ff4bdb64f140b418de1efb9922313d, type: 3}
       propertyPath: gerenciadorDeDialogos
