@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class GerenciadorDeDialogos : MonoBehaviour
 {
-    public GameObject[] dialogos; // Array de diálogos
+    public GameObject[] dialogos; 
     public int indiceDialogoAtual = 0;
 
     void Start()
@@ -12,7 +12,7 @@ public class GerenciadorDeDialogos : MonoBehaviour
             Debug.LogError("Nenhum diálogo foi atribuído ao GerenciadorDeDialogos.");
             return;
         }
-
+/*
         // Inicialmente, esconda todos os diálogos
         foreach (var dialogo in dialogos)
         {
@@ -34,7 +34,7 @@ public class GerenciadorDeDialogos : MonoBehaviour
         else
         {
             Debug.LogError("O primeiro diálogo é nulo.");
-        }
+        }*/
     }
 
     public void MostrarProximoDialogo()

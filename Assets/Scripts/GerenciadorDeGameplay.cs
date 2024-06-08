@@ -8,7 +8,6 @@ public class GerenciadorDeGameplay : MonoBehaviour
 
     void Start()
     {
-        // Manter este objeto vivo ao mudar de cena
         DontDestroyOnLoad(gameObject);
     }
 
@@ -16,7 +15,6 @@ public class GerenciadorDeGameplay : MonoBehaviour
     {
         Debug.Log("Gameplay terminada.");
 
-        // Voltar para a cena dos diálogos
         SceneManager.LoadScene(nomeCenaDialogos);
     }
 
@@ -27,5 +25,6 @@ public class GerenciadorDeGameplay : MonoBehaviour
         {
             TerminarGameplay();
         }
+
     }
 }

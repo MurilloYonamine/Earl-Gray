@@ -564,6 +564,10 @@ PrefabInstance:
       propertyPath: dialogos.Array.data[0]
       value: 
       objectReference: {fileID: 710656337}
+    - target: {fileID: 7376299322868078522, guid: d1a3c76fa50eccc4fab41a6111b8cf59, type: 3}
+      propertyPath: dialogos.Array.data[1]
+      value: 
+      objectReference: {fileID: 710656337}
     - target: {fileID: 8666297736106742932, guid: d1a3c76fa50eccc4fab41a6111b8cf59, type: 3}
       propertyPath: m_LocalPosition.x
       value: 960
