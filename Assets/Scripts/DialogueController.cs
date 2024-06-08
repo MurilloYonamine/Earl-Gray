@@ -2,15 +2,17 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
-using System.Linq;
-using Unity.VisualScripting;
+using UnityEngine.UI;
 
 public class DialogueController : MonoBehaviour
 {
     [SerializeField] private TextMeshProUGUI componenteTexto;
     [SerializeField] private TextMeshProUGUI componenteNome;
+    [SerializeField] private Image componenteImagem;  
     [SerializeField] private List<string> falas;
-    [SerializeField] private List<string> nome;
+    [SerializeField] private List<string> nomes;
+    [SerializeField] private List<Sprite> imagens;
+    [SerializeField] private AudioSource audioSource;  // Usando o componente AudioSource diretamente
     [SerializeField] private float velocidadeTexto;
     private int index;
 
@@ -18,14 +20,16 @@ public class DialogueController : MonoBehaviour
     {
         componenteTexto.text = string.Empty;
         componenteNome.text = string.Empty;
+        componenteImagem.gameObject.SetActive(false);
+        index = 0;  
         ComecarDialogo();
     }
-  
+
     void Update()
     {
         if (Input.GetMouseButtonDown(0))
         {
-            if (componenteTexto.text == falas[index] && componenteNome.text == nome[index])
+            if (componenteTexto.text == falas[index] && componenteNome.text == nomes[index])
             {
                 ProximaFala();
             }
@@ -36,35 +40,39 @@ public class DialogueController : MonoBehaviour
             }
         }
     }
+
     void ComecarDialogo()
     {
-        if (index >= falas.Count || index >= nome.Count)
+        if (index >= falas.Count || index >= nomes.Count || index >= imagens.Count)
         {
-            Debug.LogError("Você precisa colocar mais texto ou nome.");
+            Debug.LogError("Você precisa colocar mais texto, nomes ou imagens.");
         }
         else
         {
-            componenteNome.text = nome[index];
-            index = 0;
+            componenteNome.text = nomes[index];
+            AtualizarImagem();
             StartCoroutine(EscreverFala());
         }
     }
-    // Efeito máquina de escrever
+
     IEnumerator EscreverFala()
     {
         foreach (char c in falas[index].ToCharArray())
         {
             componenteTexto.text += c;
+            audioSource.PlayOneShot(audioSource.clip);  // Reproduz o som do componente AudioSource
             yield return new WaitForSeconds(velocidadeTexto);
         }
     }
+
     void ProximaFala()
     {
         if (index < falas.Count - 1)
         {
             index++;
             componenteTexto.text = string.Empty;
-            componenteNome.text = nome[index];
+            componenteNome.text = nomes[index];
+            AtualizarImagem();
             StartCoroutine(EscreverFala());
         }
         else
@@ -73,4 +81,16 @@ public class DialogueController : MonoBehaviour
         }
     }
 
+    void AtualizarImagem()
+    {
+        if (imagens[index] != null)
+        {
+            componenteImagem.sprite = imagens[index];
+            componenteImagem.gameObject.SetActive(true);
+        }
+        else
+        {
+            componenteImagem.gameObject.SetActive(false);
+        }
+    }
 }
